@@ -1,0 +1,21 @@
+{
+  "name": "lambda_rds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "rds",
+    "serverless",
+    "api"
+  ],
+  "author": "shahed salehian",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
